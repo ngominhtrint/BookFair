@@ -1,0 +1,6 @@
+framework module Pods_BookFairTests {
+  umbrella header "Pods-BookFairTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
