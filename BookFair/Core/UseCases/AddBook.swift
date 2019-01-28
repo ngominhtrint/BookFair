@@ -20,7 +20,7 @@ struct AddBookParameters {
     var isbn: String
     var title: String
     var author: String
-    var releaseDate: String?
+    var releaseDate: Date?
     var pages: Int
 }
 
